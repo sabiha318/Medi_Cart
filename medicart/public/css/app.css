@@ -1,0 +1,25 @@
+/* MediCart custom styles */
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    letter-spacing: 0.5px;
+}
+
+.card {
+    border-radius: 0.75rem;
+}
+
+.card-img-top {
+    border-top-left-radius: 0.75rem;
+    border-top-right-radius: 0.75rem;
+}
+
+.badge {
+    font-weight: 500;
+}
+
+footer a {
+    color: #ffffff;
+}
